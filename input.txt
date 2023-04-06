@@ -1,0 +1,9 @@
+int i = 4
+int num1
+int num2
+int num3
+enq { i > 0}
+    imprim  "Hello World\n"
+    i = i - 1
+fimenq
+rat
